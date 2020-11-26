@@ -3,7 +3,7 @@
 Learning AI via Colab:
 
 1. Train from Teachable Machine
-  * 01_TM2.ipynb
+   * 01_TM2.ipynb
   
 2. Use PreTrained Model
   * 02_Classification.ipynb
